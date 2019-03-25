@@ -1,5 +1,8 @@
 # StockChatbot
 
+## Demo
+![alt text](https://github.com/markwzh/StockChatbot/edit/master/README.md)
+
 ## Installation
 
 ### iexfinance
