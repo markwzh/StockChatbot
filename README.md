@@ -1,7 +1,7 @@
 # StockChatbot
 
 ## Demo
-![alt text](https://github.com/markwzh/StockChatbot/blob/master/Chatbot.gif)
+<img src="https://github.com/markwzh/StockChatbot/blob/master/Chatbot.gif" height="600" width="270">
 
 ## Installation
 
