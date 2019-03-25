@@ -1,7 +1,7 @@
 # StockChatbot
 
 ## Demo
-![alt text](https://github.com/markwzh/StockChatbot/edit/master/README.md)
+![alt text](https://github.com/markwzh/StockChatbot/blob/master/Chatbot.gif)
 
 ## Installation
 
